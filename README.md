@@ -1,4 +1,3 @@
-# pandas-challenge
+# Pandas Work
 
-This notebook isn't the prettiest, but with a simple change of file name, you'll be able to run it on any similarly arranged data set. 
-As is, it will present you with all of the information you like. 
+This Notebook was one of the my initial forerays into Python and involves mostly dataframe modifications and data analysis. The data provided involved microtransactions in a fictional only roleplaying game. Various views of the data and analysis based on them were required for our homework. 
